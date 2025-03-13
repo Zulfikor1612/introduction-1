@@ -1,0 +1,3 @@
+758e376 (HEAD -> main) Добавил log.txt
+2c381dd (origin/main) Добавил status.txt
+acdbbed Добавил README.md
